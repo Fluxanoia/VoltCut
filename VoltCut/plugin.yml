@@ -1,0 +1,34 @@
+name: VoltCut
+main: me.TylerDW.VoltCut.VoltCut
+version: 1.0
+description: 
+             Effect your world!
+commands:
+  VCsetmaxhealth:
+    description: Set your max health!
+  VCadd:
+    description: Add a prefix to your name!
+  VCeffect:
+    description: Use VoltCut Effects!
+  VCeffect-types:
+    description: Find the VoltCut effects!
+  VCexplode:
+    description: Cause terror in Minecraftia!
+  VCfirework:
+    description: Become a firework!
+  VCmoney:
+    description: Check your money!
+  VCmoneyset:
+    description: Change your money!
+  VCpickup:
+    description: Toggle the picking up of items!
+  VCshop:
+    description: View the VoltCut items on offer!
+  VCability:
+    description: Select an ability!
+  VCability-numbers:
+    description: How much abilities do you have?
+  VCcrate:
+    description: Drop a crate from the sky!
+  VCmessages:
+    description: Toggle your VC messages!

@@ -1,0 +1,5 @@
+abilityJumpingDamage: false
+moneyEarnPlayerKill: true
+moneyEarnHostileKill: true
+moneyEarnPassiveKill: true
+moneyEarnOre: true
